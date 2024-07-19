@@ -1,0 +1,16 @@
+{
+  "name": "rescalejs",
+  "version": "1.0.0",
+  "description": "A Webapp that changes the size of an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "sharp": "^0.33.4"
+  }
+}
