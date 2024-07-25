@@ -47,8 +47,8 @@ class rescale {
 const rescalejs = () => {
   const inputFilePath = "./imageinput";
   const outputFilePath = "./imageoutput";
-  const widthInInches = 36;
-  const heightInInches = 24;
+  const widthInInches = 20;
+  const heightInInches = 28;
   const ppi = 300;
 
   // Ensure output directory exists

@@ -5,8 +5,6 @@ import Upload from '../components/Upload.vue'
 <template>
   <main>
     <h1>Rescaler App</h1>
-
-
     <Upload />
   </main>
 </template>
