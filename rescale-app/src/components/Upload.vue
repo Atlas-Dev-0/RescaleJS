@@ -1,5 +1,6 @@
 <template>
   <main class="p-4 space-y-4">
+
     <!-- Inputs for dimensions and DPI -->
     <div class="space-y-2">
       <label class="block">
