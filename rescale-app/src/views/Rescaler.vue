@@ -1,6 +1,5 @@
 <template>
   <main>
-
     <!-- Uploading files -->
     <!-- get the names, details, sizes -->
     <h1>Rescaler JS</h1>
@@ -47,12 +46,12 @@ export default {
   // Get all the files
   // Get the name of the files
   // render the files as a list
+
   setup() {
 
     const heigth = ref(0);
     const width = ref(0);
     const uploadedFiles = ref([]);
-
     const handleFileUpload = (event) => {
       const selectedFiles = event.target.files;
       uploadedFiles.value.push(...selectedFiles);
